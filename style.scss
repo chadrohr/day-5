@@ -1,7 +1,14 @@
+$green: #44ff00;
+$gray: #3c3c3c;
+
+
+
+
+
 .pole{
     height: 75px;
     width: 40px;
-    border: 1px solid black;
+    border: 1px solid $gray;
     margin: 0 auto;
 
 }

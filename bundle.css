@@ -1,7 +1,7 @@
 .pole {
   height: 75px;
   width: 40px;
-  border: 1px solid black;
+  border: 1px solid #3c3c3c;
   margin: 0 auto; }
 
 .traffic-light-container {
