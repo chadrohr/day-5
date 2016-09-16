@@ -4,5 +4,8 @@
   border: 1px solid black;
   margin: 0 auto; }
 
+.traffic-light-container {
+  background: #95cdef; }
+
 .light {
   background: purple; }
